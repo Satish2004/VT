@@ -1,0 +1,24 @@
+we can access the element key item-> first
+we can access the element value item-> second
+also we can use dot operator
+
+insert-->
+map1.insert({4, "dragonFruit"})
+
+
+using emplace(){
+    map1.emplace(5, "jack Fruit");
+
+}
+
+using insert_or_assign{
+    myMap.insert_or_assign(5 , "Jack Fruit");
+
+}
+
+using erase ->
+map1.erase(3);
+for(const auto &pair : map1){
+    cout<<"found"<<it->first<<"=>"<<it->second;
+    
+}

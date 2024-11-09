@@ -1,0 +1,40 @@
+class student{
+
+    // attribute -> many
+    // constructor -> many
+    // method -> many
+
+}
+
+
+//polymorphism =--> same constructor name and same function name but diff parameter;
+
+abstraction --> hide the essential data;
+
+encapsulation - everything in one method+ data
+
+
+// 
+eg->
+
+#include <iostream>
+using namespace std;
+class student
+{
+    string name;
+    int age;
+    student(string name, int age)
+    {
+        this->name = name;
+        this->age = age;
+    }
+};
+
+int main()
+{
+
+    return 0;
+}
+======================
+
+always class name should be starting with Capital letter

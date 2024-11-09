@@ -1,0 +1,4 @@
+(1)--> iterator provides we can use all the conatiner al the datastructure and STL
+
+ (2)--> iterator just like a poinetr and also just like a dynamic array
+ (3)--> provides more control for the programmer and direct access from the STL;

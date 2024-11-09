@@ -1,0 +1,4 @@
+in singly linked list is simple 
+it contains both 
+data and pointer(which is point to the next node if the data)
+whenever we create the new node it is directly point to the null -->

@@ -1,0 +1,32 @@
+//About vector-->
+vector is a advance form of array
+vector provides dynamically located;
+vector provides magnitudes and direction
+===============================================
+// to add elements the vector
+numbers.push_back(10);
+==================================================
+// print vector-->
+=====================================================
+for(int i =0; i<numbers.size(); i++){
+
+    cout<<number[i]<<" ";
+
+}
+=============================================================
+//modify the vector
+same as print vector
+============================================================
+// remove an elements from the mem.
+pop_back()-->
+// queue method -FIFO
+numbers.erase();
+
+eg->
+remove the second elements
+numbers.erase()
+
+
+============================
+insert at a specific index
+numbers.insert(numbers.begin()+1 , value);

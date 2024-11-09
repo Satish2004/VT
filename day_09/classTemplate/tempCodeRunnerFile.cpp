@@ -1,0 +1,1 @@
+player1.shoot("john", 5);
